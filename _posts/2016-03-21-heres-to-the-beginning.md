@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:4537e425-1452-407f-8cda-7850d16e231a'
+inLanguage: null
+starred: false
+keywords: []
 description: "Here's to the beginning."
+datePublished: '2016-03-21T16:38:35.772Z'
+dateModified: '2016-03-21T16:38:32.486Z'
 author: []
-datePublished: '2016-03-21T14:57:06.681Z'
-publisher:
-  domain: ''
-  name: ''
 title: "Here's to the beginning. "
-dateModified: '2016-03-21T14:43:04.833Z'
 sourcePath: _posts/2016-03-21-heres-to-the-beginning.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: heres-to-the-beginning/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
