@@ -1,12 +1,7 @@
+name: jpl
 favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.8959136127959937
+typography_spectrum: 0.4226622919086367
 collections:
   - index:
       path: /
@@ -19,20 +14,26 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+title: JPL
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.7437276
-  lightness: 1
   brandColors:
     - '#000000'
     - '#F84800'
     - '#6E2000'
+  brandStrength: 0.7437276
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.4226622919086367
-layout_spectrum: 0.8959136127959937
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: jpl
+purpose: []
