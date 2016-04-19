@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[jpl]]></title>
         <description><![CDATA[jpl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jpl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 16:34:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 11:48:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jpl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57a32123-493f-47e1-a467-92c64a68c733.jpg">]]></description>
+            <link>https://thegrid.ai/jpl/so-my-same-problem-continues-to-plague-me-i-sign-up-gain-b/index.html</link>
+            <guid isPermaLink="false">5f096277-18bf-4d93-867f-7ec84428262e</guid>
+            <pubDate>Tue, 19 Apr 2016 11:48:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here's to the beginning. ]]></title>
-            <description><![CDATA[<article><h1>Here's to the beginning. </h1><p>Here's to the beginning.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11653a562874dc8f752c62b1f7e48da2b96d68fd.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Here's to the beginning. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11653a562874dc8f752c62b1f7e48da2b96d68fd.png"></article>]]></description>
             <link>urn:uuid:4537e425-1452-407f-8cda-7850d16e231a</link>
             <guid isPermaLink="false">b0f5a9dc-3715-44f6-86f0-b505c5e36479</guid>
             <pubDate>Tue, 22 Mar 2016 16:33:41 GMT</pubDate>
